@@ -1,0 +1,212 @@
+*{
+	margin: 0px auto;
+	padding: 0px;
+	font-size: 12px;
+	list-style:none;
+	font-family: '宋体'；
+	color:#055;
+}
+.clear{clear:both;}
+.banner{
+	height: 300px;
+	width: 100%;
+	background: url(images/banner2.jpg);
+}
+.nav{
+	width: 100%;
+	height: 40px;
+	background: url(images/timg.jpg);
+}
+.nav_content{
+	font-weight:bolder;
+	color:#FFF;
+}
+.nav_content ul li{
+	float:left; 
+}
+.nav_content ul a{
+ 	display: block;
+ 	text-decoration: none;
+	color:#FFF;
+	line-height:40px;
+	font-weight:bold;
+	font-size:16px;
+	text-align:center;
+	padding: 0 100px;
+	margin-bottom: 0px;
+}
+.nav_content ul a:hover{
+	color:#f00;
+	text-decoration: underline;
+	font-size: 18px;
+	font-family: serif;
+}
+.jia{
+	background: url(images/beijing2.jpg);
+	width: 100%;
+	height: 1500px;
+} 
+.maan{
+	width: 70%;
+}
+.mian_a{
+	width: 40%;
+	height: 100%;
+	float: left;
+}
+.main_left{
+	height: 30px;
+	background-color: #e2e9ff;
+	width: 100%;
+}
+.main_picture{
+	float: left;
+}
+.main_picture a{
+	color:#b766ad;
+	text-decoration: none;
+	font-size: 20px;
+	font-family: '宋体';
+	font-weight: bolder;
+}
+.main_picture a:hover{
+	color:#9f0050;
+	text-decoration: underline;
+	font-size: 18px;
+	font-family: serif;
+}
+.main_more{
+	float: right;
+	padding-top: 5px;
+	padding-right: 15px;
+}
+.gd{
+	color:#b766ad;
+	text-decoration: none;
+	font-size: 20px;
+	font-family: '宋体';
+	font-weight: bolder;
+}
+.main_more a:hover{
+	color:#9f0050;
+	text-decoration: underline;
+	font-size: 18px;
+	font-family: serif;
+}
+.picture{
+	margin-bottom:10px;
+	margin-top: -10px;
+	height: 1400px;
+	width: 100%;
+}
+.picture_1{
+	width: 100%;
+	height: 350px;
+}
+.news_img{
+	width: 100%;
+	height: 300px;
+	background-color: black;
+	margin-top: 7px;
+}
+.word{
+	width: 100%;
+	height: 30px;
+	background-color: black;
+	margin-top: 10px;
+}
+.news_word{
+	width: 100%;
+	height: 20px;
+	color: white;
+	text-decoration: none;
+	font-size: 2em;
+	font-family: '宋体';
+}
+.main_b{
+	width: 450px;
+	height: auto;
+	margin-top: -1400px;
+	float: right;
+}
+.qdjs{
+	height: 30px;
+}
+h1{
+	font-size:40px;
+	text-align: center;
+	color:#fff;
+	font-family: '宋体';
+
+}
+p{
+	color: #f78;
+	font-size: 18px;
+	line-height: 25px;
+	text-indent: 2em;
+
+}
+.js_center{
+	margin: -10px;
+}
+#bottom{
+	width: 100%;
+	height: 240px;
+	background-color:#2b0000; 
+	clear: both;
+	margin-top:-5px;
+}
+#bottom_{
+	width: 70%;
+	height: 230px;
+}
+#one{
+	float: left;
+	width: 33%;
+}
+#two{
+	float: left;
+	width: 33%;
+}
+#three{
+	float: left;
+	width: 33%;
+}
+.gy{
+	width: 100%;
+	height: 50px;
+	clear: both;
+	margin-top: 20px;
+	font-size: 35px;
+	font-weight: bolder;
+	color: white;
+	margin-left: 37px;
+	text-align: left;
+}
+.list{
+	width: 100%;
+	line-height: 40px;
+}
+.list a{
+	font-size: 15px;
+	font-family: '宋体';
+	font-weight: bold;
+}
+.clj{
+	color: #CDC5BF;
+	text-decoration: none;
+}
+.clj:hover{
+	color: yellow;
+}
+.di{
+	text-align: center;
+	color:#eee;
+	font-size: 10px;
+	background-color: #2d0020;
+}
+.sousuo{
+	float: left;
+	height: auto;
+	width: 20px;
+}

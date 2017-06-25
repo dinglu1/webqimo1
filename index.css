@@ -1,0 +1,109 @@
+*{
+	margin: 0px auto;
+	padding: 0px;
+	font-size: 12px;
+	list-style:none;
+	font-family: '宋体'；
+	color:#055;
+}
+.nav{
+	width: 100%;
+	height: 40px;
+	background: url(images/timg.jpg);
+}
+.nav_content{
+	font-weight:bolder;
+	color:#FFF;
+}
+.nav_content ul li{
+	float: left;
+}
+.nav_content li ul{
+	display: none;
+}
+.nav_content li:hover ul{
+	display: block;
+}
+ a{
+ 	display: block;
+ 	text-decoration: none;
+	color:#FFF;
+	line-height:40px;
+	font-weight:bold;
+	font-size:16px;
+	text-align:center;
+	padding: 0 100px;
+	margin-bottom: 0px;
+}
+a:hover{
+	color:#f00;
+	text-decoration: underline;
+	font-size: 18px;
+	font-family: serif;
+}
+.tupian{
+	width: 100%;
+	height: 100%;
+	margin-top: 0px;
+}
+.charu{
+	position: absolute;
+	left: 100px;
+	top:100px;
+	widows: 300px;
+	height: 100px;
+}
+
+#bottom{
+	width: 100%;
+	height: 240px;
+	background-color:#069; 
+	clear: both;
+	margin-top:-5px;
+}
+#bottom_{
+	width: 70%;
+	height: 230px;
+}
+#one{
+	float: left;
+	width: 33%;
+}
+#two{
+	float: left;
+	width: 33%;
+}
+#three{
+	float: left;
+	width: 33%;
+}
+.gy{
+	width: 100%;
+	height: 50px;
+	clear: both;
+	margin-top: 20px;
+	font-size: 35px;
+	font-weight: bolder;
+	color: white;
+	margin-left: 37px;
+	text-align: left;
+}
+.list{
+	width: 100%;
+	line-height: 40px;
+}
+.clj{
+	color: #CDC5BF;
+	text-decoration: none;
+	font-size: 2em;
+
+}
+.clj:hover{
+	color: yellow;
+}
+p{
+	text-align: center;
+	color:#eee;
+	font-size: 10px;
+	background-color: #059;
+}
